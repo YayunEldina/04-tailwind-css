@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: 04-tailwind-css
+        working-directory: website-pribadi
 
     steps:
       - name: Checkout repo
