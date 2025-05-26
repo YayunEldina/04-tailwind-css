@@ -26,8 +26,8 @@ export default function Home() {
           />
         </div>
 
-        <h1 className="text-4xl font-extrabold text-gray-800 mt-5">Halo!</h1>
-        <h2 className="text-2xl font-semibold text-blue-600 mt-2">Saya Yayun Eldina</h2>
+        <h1 className="text-4xl font-extrabold text-gray-800 mt-5">About Me</h1>
+        <h2 className="text-2xl font-semibold text-blue-600 mt-2">Yayun Eldina</h2>
         <p className="text-gray-700 mt-4 text-lg leading-relaxed">
           Saya seorang pengembang web dengan pengalaman di <b>Next.js, TailwindCSS, Flutter, dan Laravel.</b>  
           Saya suka membangun proyek yang menarik dan bermanfaat.  
