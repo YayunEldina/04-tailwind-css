@@ -21,9 +21,12 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./04-tailwind-css
 
       - name: Run build
         run: npm run build
+        working-directory: ./04-tailwind-css
 
       - name: Run lint
         run: npm run lint
+        working-directory: ./04-tailwind-css
